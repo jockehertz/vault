@@ -15,7 +15,17 @@
               "state": {
                 "file": "Taylor Series.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Taylor Series"
@@ -184,9 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bab2b3f6a4b7f847",
+  "active": "cbbcd4b2f8d50065",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Taylor Series.md"
+    "Product.md",
+    "Term.md",
+    "Polynome.md",
+    "Polynomial.md",
+    "Taylor Series.md",
+    "Untitled",
+    "Welcome.md"
   ]
 }
