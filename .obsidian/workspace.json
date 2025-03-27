@@ -175,8 +175,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128ac4f3fdaf181c",
+  "active": "cbbcd4b2f8d50065",
   "lastOpenFiles": [
+    "Compilation.md",
+    "Code.md",
+    "Electromagnetism.md",
+    "Limit.md",
+    "The Higgs Field.md",
+    "Mass.md",
+    "Program.md",
+    "Output.md",
+    "Function.md",
+    "Input.md",
+    "Wave.md",
+    "Force.md",
     "2025-03-26.md",
     "Frequency.md",
     "The Photoelectric effect.md",
@@ -191,7 +203,6 @@
     "Term.md",
     "Polynome.md",
     "Polynomial.md",
-    "Untitled",
-    "Welcome.md"
+    "Untitled"
   ]
 }
